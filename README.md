@@ -1,1 +1,1 @@
-# Bookshop
+Full stack bookshop application
